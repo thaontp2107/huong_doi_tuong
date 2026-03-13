@@ -18,6 +18,7 @@ print("sau cap nhat")
 sv.xem_diem()
 
 
+
 # tinh ke thua
 class SanPham:
     def __init__(self, ten, gia):
@@ -42,6 +43,7 @@ dt.hien_thi()
 dt.hienthi_dth()
 
 
+
 # tinh da hinh
 class PhuongTien:
     def di_chuyen(self):
@@ -63,6 +65,7 @@ ds = [xehoi(),maybay(), tauthuy()]
 
 for pt in ds:
     pt.di_chuyen()
+
 
 
 # tinh truu tuong
